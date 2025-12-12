@@ -14,3 +14,6 @@ OpenPose-style BODY-25 JSON files.
 
 ```bash
 python scripts/mm_to_openpose.py movementmodeler_clip.json frames_json/
+
+MovementModeler app:
+https://aegisstation.com/movementmodeler-education
