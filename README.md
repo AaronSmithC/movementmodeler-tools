@@ -6,6 +6,18 @@ MovementModeler iOS app.
 These scripts are intentionally simple and meant to be read, modified,
 or discarded as needed.
 
+## Capture Tips (Important)
+
+MovementModeler works best when the subject is clearly separated from the background.
+
+For cleaner motion data:
+- Fewer background people is always better
+- Use a slightly elevated camera angle
+- Keep a clean, visible floor plane
+- Minimize background motion behind the subject
+
+A higher vantage point reduces background skeleton detection while preserving enough perspective to accurately capture movement.
+
 ## What’s included
 
 ### mm_to_openpose.py
